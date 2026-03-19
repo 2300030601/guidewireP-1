@@ -193,5 +193,6 @@ Platform partnership model:
 •	revenue share model with delivery platforms for distribution at scale
 
 GigShield AI's mission: become India's foundational income protection infrastructure for the entire gig economy — starting with delivery riders and expanding to every worker whose livelihood depends on showing up outdoors.
+![architecture](https://github.com/user-attachments/assets/2adca197-c616-4962-91a5-3b37d631139e)
 
 
