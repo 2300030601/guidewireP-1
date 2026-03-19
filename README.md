@@ -4,7 +4,7 @@
 Autonomous Income Shield Platform for India's Last-Mile Delivery Workforce
 
 🌍 Background & Problem Context
----------------------------------
+----------------------------------
 India's last-mile delivery sector has grown into one of the largest informal employment engines in the country. Delivery riders working for platforms such as Zomato, Swiggy, Blinkit, and Zepto operate across densely packed urban corridors where order density, delivery speed, and online availability directly determine weekly take-home earnings.
 
 Yet beneath this growth lies a deep structural vulnerability. Riders have no control over:
