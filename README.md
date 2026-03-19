@@ -1,8 +1,10 @@
 # guidewireP-1
 🚀 GigShield AI
+------------------
 Autonomous Income Shield Platform for India's Last-Mile Delivery Workforce
 
 🌍 Background & Problem Context
+---------------------------------
 India's last-mile delivery sector has grown into one of the largest informal employment engines in the country. Delivery riders working for platforms such as Zomato, Swiggy, Blinkit, and Zepto operate across densely packed urban corridors where order density, delivery speed, and online availability directly determine weekly take-home earnings.
 
 Yet beneath this growth lies a deep structural vulnerability. Riders have no control over:
@@ -15,7 +17,9 @@ Yet beneath this growth lies a deep structural vulnerability. Riders have no con
 When any of these events strike, delivery operations freeze — and riders absorb 100% of the income loss with zero institutional support. A single disruption day can wipe out 15–20% of a rider's weekly earnings, with no recovery mechanism in place.
 
 GigShield AI was built to eliminate this blind spot — delivering a fully automated, zero-effort income protection layer that activates the moment a verified disruption hits a rider's active zone.
+
 👤 Clearly Defined Persona
+---------------------------
 Target Persona — Peak-Hour Dependent Delivery Rider
 GigShield AI is designed around one of India's most economically vulnerable yet underserved worker profiles:
 
