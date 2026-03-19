@@ -20,7 +20,7 @@ GigShield AI was built to eliminate this blind spot — delivering a fully autom
 
 👤 Clearly Defined Persona
 ---------------------------
-Target Persona — Peak-Hour Dependent Delivery Rider
+Target Persona — Peak-Hour Dependent Delivery Rider.
 GigShield AI is designed around one of India's most economically vulnerable yet underserved worker profiles:
 
 A full-time food and grocery delivery rider in a Tier-1 Indian city, financially dependent on daily delivery volume with no formal income protection or savings buffer.
