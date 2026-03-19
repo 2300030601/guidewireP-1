@@ -34,7 +34,9 @@ Persona Snapshot
 •	Insurance awareness: near zero; no prior experience with insurance products
 
 Every design decision in GigShield AI — from onboarding to payout — is shaped around this persona's digital limitations, financial psychology, and urgent need for simplicity.
+
 💡 Product Vision
+---------------------
 GigShield AI is engineered as an Autonomous Income Protection Engine — a platform that does not wait for a rider to file a claim, does not demand paperwork, and does not delay payouts behind manual review cycles.
 
 The platform is built on four core philosophical pillars:
@@ -44,7 +46,10 @@ The platform is built on four core philosophical pillars:
 •	Trust by Design: multi-layer fraud intelligence ensures platform sustainability and rider confidence
 
 The long-term vision: position GigShield AI as the default financial safety infrastructure embedded directly into gig delivery platforms across India.
+
 ⚙️ End-to-End Intelligent Workflow
+----------------------------------
+
 1️⃣ Rider completes 60-second onboarding: zone selection, platform ID, UPI linking
 2️⃣ AI engine runs initial risk profiling: zone history, seasonal factors, delivery patterns
 3️⃣ Weekly coverage plan recommended and activated with one-tap confirmation
@@ -55,7 +60,9 @@ The long-term vision: position GigShield AI as the default financial safety infr
 8️⃣ Payout credited to rider's UPI account within 90 minutes of trigger confirmation
 
 The entire process — from disruption detection to payout — requires zero manual action from the rider.
+
 🗺️ Hyper-Local Geo-Risk Grid Innovation
+-----------------------------------------
 Most insurance platforms assess risk at city or district level. GigShield AI operates at a fundamentally different resolution — a Dynamic Micro-Zone Risk Grid covering 2–3 km radius clusters that mirror actual delivery operating zones.
 
 Each micro-zone grid is assigned a live Risk Score updated every 6 hours, driven by:
@@ -66,7 +73,9 @@ Each micro-zone grid is assigned a live Risk Score updated every 6 hours, driven
 •	historical claim event density — zones with prior high-claim frequency are flagged
 
 This micro-zone intelligence allows GigShield AI to offer individualized premiums and faster trigger validation — a rider in a flood-prone zone of Kurla pays a different premium than one operating in a low-risk zone of Bandra.
+
 ⏰ Surge-Hour Income Shield (Key Differentiator)
+---------------------------------------------------
 A standard disruption payout model ignores a critical economic reality: not all hours of a rider's day are financially equal.
 
 Delivery earnings follow a steep surge curve:
@@ -77,7 +86,9 @@ Delivery earnings follow a steep surge curve:
 GigShield AI applies a Surge-Hour Compensation Multiplier — if a disruption triggers during a peak earning window, the payout is scaled upward to reflect the disproportionate income loss. A disruption during dinner peak is worth significantly more to the rider than one during midday off-peak hours.
 
 This makes GigShield AI's payout model economically accurate and genuinely fair — unlike flat-rate parametric systems.
+
 🤖 AI Decision Intelligence Framework
+--------------------------------------
 Zone-Level Disruption Prediction Model
 A stacked ensemble model combining Gradient Boosted Trees and Random Forest algorithms is trained on:
 •	5 years of IMD rainfall records across 12 major Indian metro zones
@@ -105,7 +116,9 @@ This score drives three outcomes:
 
 Predictive Disruption Alerts
 Beyond reactive payouts, GigShield AI pushes next-day disruption forecasts to riders — enabling them to plan shift timings, shift to alternate zones, or pre-activate coverage before a disruption window hits. This transforms the platform from a financial safety net into a proactive livelihood planning tool.
+
 📱 Human-Centric User Experience Philosophy
+--------------------------------------------
 GigShield AI is built on one guiding UX principle: if a rider has to think, we have failed.
 
 The platform achieves radical simplicity through:
@@ -117,7 +130,9 @@ The platform achieves radical simplicity through:
 •	vernacular support — Hindi, Telugu, Tamil, Kannada, and Marathi interfaces
 
 The target: under 90 seconds from first WhatsApp message to active policy. Zero friction is not a feature — it is the product.
+
 🏗️ Predictive Livelihood Protection Architecture
+-------------------------------------------------
 GigShield AI is built as a cloud-native microservices architecture across 9 functional layers:
 
 ── LAYER 1: CLIENT INTERFACE ──
@@ -158,7 +173,9 @@ WhatsApp Business API — Claim status alerts in vernacular
 ── LAYER 9: ANALYTICS & REPORTING ──
 Rider Dashboard — Weekly income protected | Claim history | Zone risk alerts
 Insurer Dashboard — Geo-risk heatmap | Fraud queue | Loss ratio | Payout velocity
+
 📊 Intelligent Analytics Layer
+----------------------------------
 Rider Dashboard
 •	weekly coverage status with real-time active disruption alerts for registered zone
 •	income protection summary: total amount shielded this week vs. premium paid
@@ -172,7 +189,9 @@ Insurer & Platform Admin Dashboard
 •	fraud detection queue: anomaly-flagged claims with confidence scores
 •	weekly actuarial summary: premiums collected, payouts disbursed, loss ratio
 •	rider cohort analytics: claim frequency by zone, plan tier, and season
+
 💰 Sustainable Weekly Micro-Premium Logic
+-----------------------------------------
 GigShield AI's pricing is built around a risk-calibrated weekly micro-subscription model — premiums are low enough to be affordable on gig income yet structured to sustain healthy loss ratios for the insurer.
 
 Coverage Plan	Weekly Premium	What's Covered
@@ -186,8 +205,11 @@ Premium adjustments are applied dynamically based on:
 •	rider reliability score — consistent low-claim riders earn up to 15% discount
 •	plan tier history — riders upgrading from Essential to Elite receive a loyalty incentive
 
-The result: a premium structure that is fair, personalized, and financially viable for both the rider and the insurance provider.
+The result: a premium structure that is fair, personalized, and financially 
+viable for both the rider and the insurance provider.
+
 📈 Market Opportunity & Scalability Vision
+-------------------------------------------
 India's gig delivery workforce stands at over 12 million active riders today and is forecast to cross 20 million by 2028, driven by the explosive growth of food delivery, quick-commerce, and e-commerce logistics.
 
 Currently, less than 2% of this workforce has any form of income protection. GigShield AI targets this gap as a high-urgency, high-volume opportunity.
@@ -198,6 +220,7 @@ Platform partnership model:
 
 GigShield AI's mission: become India's foundational income protection infrastructure for the entire gig economy — starting with delivery riders and expanding to every worker whose livelihood depends on showing up outdoors.
 ## Architecture Diagram
+------------------------
 ![architecture](https://github.com/user-attachments/assets/2adca197-c616-4962-91a5-3b37d631139e)
 
 
